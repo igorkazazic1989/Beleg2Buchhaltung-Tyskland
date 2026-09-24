@@ -11,7 +11,7 @@ export default function Impressum(){
       <h1 className="text-3xl font-bold">Impressum</h1>
       <div className="mt-8 space-y-6 text-zinc-700 leading-relaxed">
         <p>
-          <b>Angaben gemäß §5 TMG</b><br/>
+          <b>Angaben gemäß § 5 DDG</b><br/>
           Igor Kazazic<br/>
           Segeparksgatan 18<br/>
           212 50 Malmö<br/>
@@ -20,12 +20,12 @@ export default function Impressum(){
 
         <p>
           <b>Kontakt</b><br/>
-          E-Mail: igorkazazic1989@gmail.com<br/>
+          E-Mail: kontakt@beleg2buchhaltung.de<br/>
           Telefon: +46 70 630 08 38
         </p>
 
         <p>
-          <b>Verantwortlich für den Inhalt nach §18 Abs.2 MStV</b><br/>
+          <b>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</b><br/>
           Igor Kazazic, Anschrift wie oben
         </p>
 
