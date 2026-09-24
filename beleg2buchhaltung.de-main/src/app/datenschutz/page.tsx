@@ -11,7 +11,7 @@ export default function Datenschutz(){
       <h1 className="text-3xl font-bold">Datenschutz – DSGVO</h1>
       <div className="mt-8 space-y-6 text-zinc-700 leading-relaxed text-sm">
         <h2 className="font-bold text-base">1. Verantwortlicher</h2>
-        <p>Igor Kazazic<br/>Segeparksgatan 18<br/>212 50 Malmö, Schweden<br/>E-Mail: igorkazazic1989@gmail.com<br/>Telefon: +46 70 630 08 38</p>
+        <p>Igor Kazazic<br/>Segeparksgatan 18<br/>212 50 Malmö, Schweden<br/>E-Mail: kontakt@beleg2buchhaltung.de<br/>Telefon: +46 70 630 08 38</p>
 
         <h2 className="font-bold text-base">2. Hosting und Zugriffsdaten</h2>
         <p>Wir hosten bei Vercel Inc., 340 S Lemon Ave #4133 Walnut, CA 91789, USA. Vercel verarbeitet IP-Adresse, User-Agent und Zeitstempel in Server-Logs zur Sicherstellung des Betriebs (Art.6 Abs.1 lit.f DSGVO).</p>
